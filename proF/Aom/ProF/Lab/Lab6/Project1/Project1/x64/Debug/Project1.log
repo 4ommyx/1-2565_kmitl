@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\natta\OneDrive\เดสก์ท็อป\cccccc\Aom\ProF\Lab\Lab7\Project1\Project1\Source.cpp(17,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\natta\OneDrive\เดสก์ท็อป\cccccc\Aom\ProF\Lab\Lab7\Project1\Project1\Source.cpp(17,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Project1.vcxproj -> C:\Users\natta\OneDrive\เดสก์ท็อป\cccccc\Aom\ProF\Lab\Lab7\Project1\x64\Debug\Project1.exe
